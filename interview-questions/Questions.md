@@ -22,7 +22,6 @@
 - мотивация
 - системы оценки персонала
 - agile, scrum, kanban
-- мотивация, поощрения
 
 # common screening questions
 
