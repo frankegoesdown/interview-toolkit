@@ -13,6 +13,7 @@
     - осноные структуры данных
     - специфика типа skip list, bloom filter и т.д. очень стоит почитать про вероятностные структуры данных
     - основные задачи с литкода: https://github.com/frankegoesdown/preparing_yandex_interview/
+    - https://tproger.ru/translations/14-templates-to-answer-interview-questions/ основные паттерны здесь разбираются
 - дизайн
     - https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview
     - https://github.com/donnemartin/system-design-primer#real-world-architectures
